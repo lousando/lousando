@@ -1,1 +1,1 @@
-For a larger view of my work, please view the public projects at [my personal git repo](https://git.lousando.xyz/)
+Javascript wiz and with over 10 years in web development.
