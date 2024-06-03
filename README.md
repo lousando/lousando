@@ -2,7 +2,7 @@
 
 I'm an experienced Web Developer with a 10+ year history of working in the web industry. 
 Optimizing software is one of my favorite tasks, so I constantly refine my technical expertise. 
-I am skilled in Javascript, Node.js, React, Vue, Docker, and Linux. 
+I am skilled in Javascript, Node.js, React, Vue, PHP, Docker, and Linux. 
 I'm an eager, honest, and motivated individual who's ready to hit the ground running 💪
 
 # Projects
