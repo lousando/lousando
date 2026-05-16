@@ -5,7 +5,7 @@ Optimizing software is one of my favorite tasks, so I constantly refine my techn
 I am skilled in Javascript, Node.js, React, Vue, Elixir, PHP, Docker, and Linux. 
 I'm an eager, honest, and motivated individual who's ready to hit the ground running 💪
 
-Most of my work resides in a self-hosted Forgejo instance <https://git.lousando.xyz>
+Most of my work resides at SourceHut <https://sr.ht/~lousando>
 
 # Projects
 
